@@ -24,20 +24,9 @@ It is commonly used for 2D objects, but it can also be used in 3D projects when 
 
 ## Sorting Layers and Order in Layer
 
-Sorting Layers group sprites into rendering categories so Unity can decide which objects appear in front of others. Layers higher in the list are rendered above lower layers.
+Sorting Layers group sprites into rendering categories so Unity can decide which objects appear in front of others.
 
-Common Sorting Layers include:
-
-- `Background`
-- `Environment`
-- `Player`
-- `UI`
-
-Within the same Sorting Layer, Unity uses `Order in Layer` to decide the order between sprites. Higher values are rendered in front of lower values.
-
-In 2D projects, avoid relying only on object position, such as `Z` or `Y`, to control rendering order. Use Sorting Layers for broad groups and `Order in Layer` for precise ordering.
-
-Incorrect Sorting Layer configuration can cause sprites to overlap incorrectly, objects to appear behind others, or UI elements to mix with game objects.
+For a more detailed explanation of Sorting Layers, Order in Layer, and how they differ from regular Unity Layers, see [Sorting Layers](SortingLayers.md).
 
 ## Related Topic
 

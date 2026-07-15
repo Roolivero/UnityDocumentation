@@ -17,3 +17,5 @@ Sorting Layers group sprites into rendering categories so Unity can decide which
 Within the same Sorting Layer, Unity uses `Order in Layer` to decide the order between sprites. Higher values are rendered in front of lower values.
 
 In 2D projects, avoid relying only on object position, such as `Z` or `Y`, to control rendering order. Use Sorting Layers for broad groups and `Order in Layer` for precise ordering.
+
+For more detail, see [Sorting Layers](SortingLayers.md).

@@ -61,6 +61,8 @@ It works with Unity `Layers`, not Sorting Layers.
 
 Each GameObject belongs to a Layer, and each camera can be configured to render only specific layers.
 
+For the difference between Layers and Sorting Layers, see [Layers and Sorting Layers](LayersAndSortingLayers.md).
+
 This is useful for:
 
 - Separating UI from gameplay.
