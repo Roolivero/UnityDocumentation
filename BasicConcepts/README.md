@@ -5,6 +5,7 @@ This folder contains Unity concepts that apply across both 2D and 3D projects.
 ## Topics
 
 - [Audio](Audio.md)
+- [Animations](Animations.md)
 - [Cameras](Cameras.md)
 - [Input](Input.md)
 - [Layers and Sorting Layers](LayersAndSortingLayers.md)
@@ -15,4 +16,4 @@ This folder contains Unity concepts that apply across both 2D and 3D projects.
 
 ## Where 2D-Specific Notes Live
 
-Concepts that are specific to 2D development, such as sprites, tilemaps, Rule Tiles, Animated Tiles, Sorting Layers in sprite rendering, and Physics 2D, live in [2D](../2D/README.md).
+Concepts that are specific to 2D development, such as sprites, tilemaps, Rule Tiles, Animated Tiles, Sorting Layers in sprite rendering, 2D animations, and Physics 2D, live in [2D](../2D/README.md).

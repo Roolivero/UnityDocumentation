@@ -10,7 +10,8 @@ This folder contains concepts that are specific to 2D game development in Unity.
 4. [Tilemaps](Tilemaps.md)
 5. [Physics 2D](Physics2D.md)
 6. [2D Character Structure](CharacterStructure.md)
+7. [2D Animations](2DAnimations.md)
 
 ## General Concepts Used by 2D
 
-Some concepts used in 2D games are general Unity concepts and live in [Basic Concepts](../BasicConcepts/README.md), such as cameras, input, audio, materials, shaders, UI, and layers.
+Some concepts used in 2D games are general Unity concepts and live in [Basic Concepts](../BasicConcepts/README.md), such as cameras, input, audio, animations, materials, shaders, UI, and layers.
